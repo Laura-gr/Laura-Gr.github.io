@@ -1,3 +1,7 @@
+<section id="skills" class="section scrollspy">
+      <h3 class="page-title white-text teal">Skills</h3>
+      <div class="container">
+    
  <!-- Languages and Databases -->
         <div class="card">
           <div class="card-content">
@@ -128,3 +132,8 @@
             </div>
           </div>
         </div> -->
+
+           
+      </div>
+    </section>
+
